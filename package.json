@@ -1,0 +1,25 @@
+{
+  "name": "cypressui",
+  "version": "1.0.0",
+  "description": "lstihan e2e cypress ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahmansopianqa/cypressui.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Rahman Sopian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahmansopianqa/cypressui/issues"
+  },
+  "homepage": "https://github.com/rahmansopianqa/cypressui#readme",
+  "devDependencies": {
+    "cypress": "^12.5.1"
+  }
+}
